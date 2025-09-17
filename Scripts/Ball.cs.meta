@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8ded2ea9d341f114296368fb4a19fb5a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ballSound: {instanceID: 0}
+  - ballFlySound: {instanceID: 0}
+  - goalSound: {instanceID: 0}
+  - goalEffect: {fileID: 4748826867007749308, guid: 522cfa8a96a676842880c265c215e258, type: 3}
+  - visualPrefab: {instanceID: 0}
+  - trail: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

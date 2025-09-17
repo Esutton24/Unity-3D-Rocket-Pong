@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fbd435ce4f4dc5e4eb9138bc9e9b903c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - setScore: {instanceID: 0}
+  - homeTeamScoreText: {instanceID: 0}
+  - awayTeamScoreText: {instanceID: 0}
+  - countdownDisplay: {instanceID: 0}
+  - startSound: {fileID: 8300000, guid: 864a8e7edc9bdcc45b7c5425566484c2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
